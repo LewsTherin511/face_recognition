@@ -70,4 +70,4 @@ del draw
 pil_image.show()
 
 # You can also save a copy of the new image to disk if you want by uncommenting this line
-# pil_image.save("image_with_boxes.jpg")
+pil_image.save("image_with_boxes.jpg")
